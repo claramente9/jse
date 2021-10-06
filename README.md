@@ -1,4 +1,4 @@
 # jse
 Java Standard Edition - Maven based project
 
-Tanti saluti!
+Tanti saluti a tutti!
