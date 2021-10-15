@@ -6,7 +6,7 @@ public class For {
         for (int i = 0; i < args.length; i++) {
             System.out.print("Arg " + i);
 
-            if (i == 2) {
+            if (i == 2) { //if this condition is true
                 System.out.println(" skipped");
                 continue;
             }

@@ -6,7 +6,7 @@ public class IfElse {
         if (args.length == 0) {
             // executed only if condition is true
             System.out.println("You didn't pass me any parameter!");
-        } else {
+        } else if (args.length == 1) {
             // executed only if condition is false
             System.out.println("You passed me at least a parameter");
         }

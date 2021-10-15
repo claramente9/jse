@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class ArrayShortcut {
     public static void main(String[] args) {
         int[] data = { 1, 4, 13 };
+        
+        // es: 
 
         // convert the array to a string and then print it
         System.out.println(Arrays.toString(data));

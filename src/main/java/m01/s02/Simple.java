@@ -13,7 +13,7 @@ import java.lang.Math; // not required
 public class Simple {
     public static void main(String[] args) {
         // output a string to console
-        System.out.print("Hello, ");
+        System.out.print("Hello, Clara");
 
         // if the caller passes exactly one parameter, output it
         if (args.length == 1) {
